@@ -2,6 +2,7 @@
 ## Dezvoltarea Aplicatiilor Web utilizand ASP.NET Core MVC
 
 [Raport](https://github.com/AlexandraMarinaBerlinschi/DAW/blob/e048b388ade11e528e44a07c08a7ff18d8f48dda/Raport.docx/)
+
 Platforma “Collective Knowledge” cu urmatoarele functionalitati:
 * Sa existe 3 tipuri de utilizatori: vizitator neinregistrat, utilizator inregistrat si administrator 
 * Utilizatorii neinregistrati pot sa vada pagina de prezentare a platformei si formularele de autentificare si inregistrare 
